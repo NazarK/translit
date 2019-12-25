@@ -1,6 +1,6 @@
 # coding: utf-8
 
-require 'rake'
+#require 'rake'
 
 Gem::Specification.new do |s|
   s.name = %q{translit}
