@@ -16,7 +16,7 @@ Gem::Specification.new do |s|
   s.bindir = 'bin'
   s.executables = %w{translit}
   s.homepage = %q{http://github.com/tjbladez/translit}
-  s.summary = %q{Transliteration between cyrillic <-> latin from command-line or your program | Транслитерация между кириллицей и латиницей с коммандной строки или в твоей программе}
   s.post_install_message = %q{You are ready to transliterate | Вы готовы к транслитерации}
 =end  
+  s.summary = %q{Transliteration between cyrillic <-> latin from command-line or your program | Транслитерация между кириллицей и латиницей с коммандной строки или в твоей программе}
 end
